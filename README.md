@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I love coding. That should explain it all. Haha, what a good joke. Anyways, here's a little more.
+I love coding. I'm great at it. Haha, what a good joke. Anyways, here's a little more.
 
 - 🔭 I’m currently working on my Discord bot, [Hurricano.](https://github.com/HurricanoBot/Hurricano)
 - 🌱 I’m currently learning more about APIs, and trying to make one myself.
