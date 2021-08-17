@@ -10,8 +10,6 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at dragon@dragonizedpizza.com! I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/Dragonizedpizza/Dragonizedpizza/master/assets/DarkCoding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -38,4 +36,4 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://discord.com/users/701780722444402758">...on Discord</a>
+<a href="https://discord.com/users/701780722444402758"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
